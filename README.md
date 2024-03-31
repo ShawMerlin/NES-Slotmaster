@@ -21,6 +21,8 @@ A design using FPC Cables is in the works, it won't be as beginner friendly but 
 
 <img width="485" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/30a6e375-e020-47c0-ba7a-a127b6ed79d6">
 
+<img width="296" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/5e4cafc0-4ec8-4681-be9a-2f9ea3654d21">
+
 <img width="487" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/9d30263b-72f8-49e1-bc9f-3dd1cb704393">
 
 <img width="487" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/0c6fb0f7-5571-4f36-8f4c-39d4de088d15">
