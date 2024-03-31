@@ -3,7 +3,7 @@
 - Both the Top and Bottom SlotMaster PCBs <BR>
 - 72 Pin 2.50mm Pitch NES Connector (x2) <BR>
 - 64 Pin, 10CM Ribbon Cable, 2.54mm Pitch <BR>
-- 64 Pin Header, 2.54mm Pitch (x2) <BR.
+- 64 Pin Header, 2.54mm Pitch (x2) <BR>
 - NES StackMaster PCBs
 - M3 x 8mm Screw with Nut (x2)
 - M3 x 30mm bolt with Nut (x2)
