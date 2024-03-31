@@ -10,9 +10,11 @@ A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Fron
 - Minimul components, this can be built for less than $20. <BR>
 - PCB uses a through hole design so this will be easier to solder for beginners.  I great first project. <BR>
 - Can be used with the RF Shielding on the top and the bottom if desired, there is plenty of clearance. <BR>
+
 <Br>
-The 3D Model for this design was influenced by malleetech123 on Thingiverse.  Huge shoutout to him!! <BR>
-A design using FPC Cables is in the works, it won't be as beginner friendly but will have less holes to solder.
+The 3D Model for this design was influenced by malleetech123 on Thingiverse and built using Autodesk Fusion 360. <BR>
+I recommend using 100% in-fill with FDM printing for strength or print in resin. <BR>
+A design using FPC Cables is in the works, it won't be as beginner friendly but will have less holes to solder. <BR>
 <Br>
 <Br>
 <img width="485" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/7f0bc7cb-03c4-4c64-80b2-228e4dba81bc">
