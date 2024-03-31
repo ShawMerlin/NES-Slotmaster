@@ -7,7 +7,7 @@ A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Fron
 - No modification is need to your NES Console. Just enough skill to remove the top portion and swap the connector.
 - Uses an existing 72 pin Connector. (Designing a brand new connector is not in my wheelhouse)
 - The NES Cartridge is held close to the door of the NES so it's easy to grab and remove from the console.
-- Minimul components, this can be built for less than $20
+- Minimul components, this can be built for less than $20.
 - PCB uses a through hole design so this will be easier to solder for beginners.  I great first project.
 - Can be used with the RF Shielding on the top and the bottom if desired, there is plenty of clearance.
 <Br>
