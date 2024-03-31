@@ -3,13 +3,13 @@ A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Fron
 
 
 # Features of the NES Slotmaster
-- Open sourced, build it yourself, make changes, sell them, whatever tickles your fancy.
-- No modification is need to your NES Console. Just enough skill to remove the top portion and swap the connector.
-- Uses an existing 72 pin Connector. (Designing a brand new connector is not in my wheelhouse)
-- The NES Cartridge is held close to the door of the NES so it's easy to grab and remove from the console.
-- Minimul components, this can be built for less than $20.
-- PCB uses a through hole design so this will be easier to solder for beginners.  I great first project.
-- Can be used with the RF Shielding on the top and the bottom if desired, there is plenty of clearance.
+- Open sourced, build it yourself, make changes, the world is your burrito. <BR>
+- No modification is need to your NES Console. Just enough skill to remove the top portion and swap the connector. <BR>
+- Uses an existing 72 pin Connector. (Designing a brand new connector is not in my wheelhouse) <BR>
+- The NES Cartridge is held close to the door of the NES so it's easy to grab and remove from the console. <BR>
+- Minimul components, this can be built for less than $20. <BR>
+- PCB uses a through hole design so this will be easier to solder for beginners.  I great first project. <BR>
+- Can be used with the RF Shielding on the top and the bottom if desired, there is plenty of clearance. <BR>
 <Br>
 The 3D Model for this design was influenced by malleetech123 on Thingiverse.  Huge shoutout to him!! <BR>
 A design using FPC Cables is in the works, it won't be as beginner friendly but will have less holes to solder.
