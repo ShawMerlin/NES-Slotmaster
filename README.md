@@ -9,6 +9,7 @@ A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Fron
 - The NES Cartridge is held close to the door of the NES so it's easy to grab and remove from the console.
 - Minimul components, this can be built for less than $20
 - PCB uses a through hole design so this will be easier to solder for beginners.  I great first project.
+- Can be used with the RF Shielding on the top and the bottom if desired, there is plenty of clearance.
 <Br>
 The 3D Model for this design was influenced by malleetech123 on thingiverse.  Huge shoutout to him!!
 A design using FPC Cables is in the works, it won't be as beginner friendly but will have less holes to solder.
@@ -28,4 +29,11 @@ A design using FPC Cables is in the works, it won't be as beginner friendly but 
 
 <img width="484" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/35d3391c-5dba-4ff7-ac9b-c648d9043c74">
 
+<br>
+Clearance of the top and bottom shield <Br>
 
+<img width="485" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/7314da8b-8242-4ff5-9f4c-bae413d84815">
+
+<img width="483" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/c8b0ecb9-23d7-4de5-8bab-2914f99eb0ea">
+
+<img width="483" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/e79e9db2-ea4a-46ef-b4c5-f0bf271cf9f7">
