@@ -11,7 +11,7 @@ A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Fron
 - PCB uses a through hole design so this will be easier to solder for beginners.  I great first project.
 - Can be used with the RF Shielding on the top and the bottom if desired, there is plenty of clearance.
 <Br>
-The 3D Model for this design was influenced by malleetech123 on thingiverse.  Huge shoutout to him!!
+The 3D Model for this design was influenced by malleetech123 on Thingiverse.  Huge shoutout to him!! <BR>
 A design using FPC Cables is in the works, it won't be as beginner friendly but will have less holes to solder.
 <Br>
 <Br>
