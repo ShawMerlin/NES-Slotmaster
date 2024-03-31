@@ -1,4 +1,6 @@
 # Parts need to complete this project. <BR>
+- 3D print of the Slotmaster Cartrdige Unit <BR>
+- Both the Top and Bottom SlotMaster PCBs <BR>
 - 72 Pin 2.50mm Pitch NES Connector (x2) <BR>
 - 64 Pin, 10CM Ribbon Cable, 2.54mm Pitch <BR>
 - 64 Pin Header, 2.54mm Pitch (x2) <BR.
@@ -22,6 +24,17 @@ https://www.ebay.com/itm/182245348283  <BR>
 <img width="296" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/af6f9373-dcaf-4876-94a3-3c945697f05e">
   <BR>
     <BR>
+
+3D print of the Slotmaster Cartrdige Unit <BR>
+https://github.com/ShawMerlin/NES-Slotmaster/blob/main/NES%20Slotmaster%20(v8).stl <BR>
+<img width="296" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/d84a4958-eae8-4f9e-a26f-e5f98a2dea26">
+ <BR>
+ <BR>
+
+Top and Bottom SlotMaster PCBs <BR>
+https://github.com/ShawMerlin/NES-Slotmaster/blob/main/Slotmaster_V1.7_Gerbers.zip <BR>
+<img width="645" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/c5e4ee10-fbb4-483a-81d0-01a2d5d24180">
+
 M3 x 8mm Screw with Nut  <BR>
 https://www.amazon.com/cSeao-50-Pack-Phillips-Machine-Stainless/dp/B0CMH39DJ1  <BR>
 <img width="190" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/8fb42956-74b6-4356-9239-ab6f3ac46ded">
