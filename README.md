@@ -1,7 +1,8 @@
 # NES Slotmaster
-A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Front Loader NES
-
-
+A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Front Loader NES. <BR> <BR>
+if downloading Gerbers and STL is not your thing, both of these are included in my PCBWay Project. <BR>
+https://www.pcbway.com/project/shareproject/NES_Slotmaster_bc9ea5b8.html <BR>
+ <BR>
 # Features of the NES Slotmaster
 - Open sourced, build it yourself, make changes, the world is your burrito. <BR>
 - No modification is need to your NES Console. Just enough skill to remove the top portion and swap the connector. <BR>
