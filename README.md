@@ -1,4 +1,12 @@
+
+04/16/2024 <BR>
+- The Gerbers have been taken off Github as there is a small change that needs to be further researched. <BR>
+- This change will not impact the majority of NES Game titles out there, but could impact a few. <BR>
+- I plan to have everything tested and the new Gerbers released later this week  <BR>
+- New SMD FPC Ribbon PCBs should arrive this week.  This design passes through all 72 pins. <BR> <BR>
+
 # NES Slotmaster
+
 A fully open-sourced drop in replacement for the 72 Pin Cartridge Slot on a Front Loader NES. <BR> <BR>
 if downloading Gerbers and STL is not your thing, both of these are included in my PCBWay Project. <BR>
 https://www.pcbway.com/project/shareproject/NES_Slotmaster_bc9ea5b8.html <BR>
