@@ -1,5 +1,7 @@
 
-04/16/2024 <BR>
+04/17/2024 <BR>
+- FAQ information on the recent 3D Model and PCB change <br>
+https://github.com/ShawMerlin/NES-Slotmaster/blob/main/SlotMaster_April_17th_Information_Update.pdf  <br>
 - The Gerbers have been taken off Github as there is a small change that needs to be further researched. <BR>
 - This change will not impact the majority of NES Game titles out there, but could impact a few. <BR>
 - I plan to have everything tested and the new Gerbers released later this week  <BR>
