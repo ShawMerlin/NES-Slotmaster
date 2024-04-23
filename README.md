@@ -1,3 +1,8 @@
+04/22/2024 <BR>
+- New Version 1.8 Board that ensures 100% game compatibility. Gerbers Above<br>
+- We have a quick fix for anyone with that wants 100% compatibity with the V1.7 Board <br>
+  This issue will not impact the majority of NES Game titles out there, but could impact a few. <BR>
+  https://github.com/ShawMerlin/NES-Slotmaster/blob/main/Board%20V1.7%20100%25%20Compatibility%20Fix.md <BR> <BR>
 
 04/17/2024 <BR>
 - FAQ information on the recent 3D Model and PCB change <br>
