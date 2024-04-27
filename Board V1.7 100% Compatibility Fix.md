@@ -14,21 +14,23 @@ Cutting the below trace is optional, it's connected to a EXP pin that is not use
 <BR><BR>
 
 Use a marker on the PCB Board to mark the 2 pins on the 64P connector and the 1 pin on the bottom of the 72p connector (yellow circle)<BR>
-<img width="389" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/4ba3eb0f-9346-4760-adf4-1babdd7f0fba">
+![image](https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/b983a5ec-d267-4620-9a35-837ac32e1e5a)
 <BR>
 <BR>
 On the 64P connector, connect a wire to the below pins that you have previously marked<BR>
-<img width="396" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/950da1e4-2cdd-49f1-9c56-cbdde9056f79">
+![image](https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/c8e7fe8e-a295-44c2-a45e-876a1838634e)
 <BR>
 <BR>
 From the top of the connector, count over 15 pins and mark it with a marker.  (This is pin 15)<BR>
-<img width="393" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/2413736f-20be-4e26-ad31-d24116e7ed68">
+![image](https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/6a0415b9-c29a-4bd8-a6cd-3f954c9b6d95)
 <BR>
 <BR>
 Connect the bottom row pin of the 64p connector to Pin 56 on the 72p connector (20th pin from the left)<BR>
-<img width="300" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/d355d2d1-1546-4bab-8ba7-78fc77ceb55a">
+![image](https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/118122a3-7d14-4cbc-8141-e1ff69d72e02)
+
 <BR>
 <BR>
 Pull the wire from the top pin of the 64p Connector through the bottom of the 72pin connector and connect to Pin 15 (previously marked)<br>
-<img width="299" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/54c54859-3004-4674-aa7f-3e4628df3c30">
+![image](https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/a3bbdd84-c2c5-4921-abf6-9c24221c0f3e)
+
 
