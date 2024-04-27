@@ -9,6 +9,7 @@ Here is Silent Service after the V1.7 Double Bodge Fix.  <BR>
 <BR><BR>
 
 Here are the 2 connections that we need to connect a wire between (I used 28 awg wire)<BR>
+Cutting the below trace is optional, it's connected to a EXP pin that is not used. <BR>
 <img width="567" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/c1494225-40b1-4c01-9177-1430a93417bd">
 <BR><BR>
 
