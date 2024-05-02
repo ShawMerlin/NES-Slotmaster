@@ -1,8 +1,14 @@
+05/22/2024 <BR>
+- New FPC Flex Slotmaster PCB Annoucement.  There is a seperate folder now for Flex version vs DIY Version. <br>
+- Both Flex and DIY Versions have added footprints for ATTiny so a Krikzz AVRCIC can be used (if desired) <BR>
+- DIY Version now has a 8 pin breakout that will help connect all 72 pins. (if desired) <br> <br>
+
+
 04/22/2024 <BR>
 - New Version 1.8 Board that ensures better game compatibility. Gerbers Above<br>
 - We have a quick fix for anyone with that wants better compatibity with the V1.7 Board <br>
   This issue will not impact the majority of NES Game titles out there, but could impact a few. <BR>
-  https://github.com/ShawMerlin/NES-Slotmaster/blob/main/Board%20V1.7%20100%25%20Compatibility%20Fix.md <BR> <BR>
+  https://github.com/ShawMerlin/NES-Slotmaster/blob/main/Slotmaster%20DIY%20Version/Better_Compatibility_Fix.md <BR> <BR>
 
 04/17/2024 <BR>
 - FAQ information on the recent 3D Model and PCB change <br>
