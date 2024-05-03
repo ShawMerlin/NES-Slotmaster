@@ -1,5 +1,9 @@
 ## Known Issues <BR>
-- https://github.com/ShawMerlin/NES-Slotmaster/blob/main/GamesNotCompatible.md <br> <br>
+Some cartridges are not compatible <br>
+- https://github.com/ShawMerlin/NES-Slotmaster/blob/main/GamesNotCompatible.md <br>
+
+Slotmaster V1.7 doesn't connect Pin56 <br>
+- https://github.com/ShawMerlin/NES-Slotmaster/blob/main/Slotmaster%20DIY%20Version/Better_Compatibility_Fix.md <br> <br>
 
 ## Flex Version 1.8b <BR>
 Will release soon <br>
