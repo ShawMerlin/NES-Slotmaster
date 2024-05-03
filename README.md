@@ -1,4 +1,4 @@
-05/22/2024 <BR>
+05/01/2024 <BR>
 - New FPC Flex Slotmaster PCB Annoucement.  There is a seperate folder now for Flex version vs DIY Version. <br>
 - Both Flex and DIY Versions have added footprints for ATTiny so a Krikzz AVRCIC can be used (if desired) <BR>
 - DIY Version now has a 8 pin breakout that will help connect all 72 pins. (if desired) <br> <br>
