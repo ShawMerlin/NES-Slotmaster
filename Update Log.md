@@ -11,7 +11,7 @@ Will release soon <br>
 - Has a footprint for a ATTiny13 so the Krikzz AVRCIC can be used (if desired). <br> <br>
 
 ## DIY Version 1.8d <BR>
-Will release soon <br>
+Gerber Files are available the under Slotmaster DIY Version folder <br>
 - Includes the 8 pin breakout of all expansion ports so all 72 pins can be connected <br>
 - Has a footprint for a ATTiny13 so the Krikzz AVRCIC can be used (if desired). <br> <br>
 
