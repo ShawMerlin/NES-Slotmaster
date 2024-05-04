@@ -7,7 +7,10 @@
 - NES StackMaster PCBs
 - M3 x 8mm Screw with Nut (x2)
 - M3 x 30mm bolt with Nut (x2)
-- Optional.  6 x 5/8 self taping screw if you don't want to use the 30mm bolts (x2)
+Optional
+- 6 x 5/8 self taping screw if you don't want to use the 30mm bolts (x2)
+- 2x4 Double Pin Header if expansion ports are needed (x2)
+- 8 Pin Straight Ribbon Cable
 <BR>
 <BR>
 <BR>
@@ -34,6 +37,15 @@ https://github.com/ShawMerlin/NES-Slotmaster/blob/main/NES%20Slotmaster%20(v8).s
 Top and Bottom SlotMaster PCBs <BR>
 https://github.com/ShawMerlin/NES-Slotmaster/blob/main/Slotmaster_V1.7_Gerbers.zip <BR>
 <img width="645" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/c5e4ee10-fbb4-483a-81d0-01a2d5d24180">
+
+(x2) 2x4 Double pin header with keyed connector. (Optional) <BR>
+https://www.amazon.com/15Pcs-2-54mm-Straight-Connector-Headers/dp/B00O9YEZ6S <BR>
+![image](https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/6c4b72c5-3ae6-461e-b4e7-c90f21329e76)
+
+2.54mm FC8P 10CM straight cable <BR>
+https://www.ebay.com/itm/155895556924 <BR>
+![image](https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/e6449056-e11c-406f-bdc5-cdb512933a73)
+
 
 M3 x 8mm Screw with Nut  <BR>
 https://www.amazon.com/cSeao-50-Pack-Phillips-Machine-Stainless/dp/B0CMH39DJ1  <BR>
