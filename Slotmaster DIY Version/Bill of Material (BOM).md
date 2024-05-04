@@ -4,13 +4,13 @@
 - 72 Pin 2.50mm Pitch NES Connector (x2) <BR>
 - 64 Pin, 10CM Ribbon Cable, 2.54mm Pitch <BR>
 - 64 Pin Header, 2.54mm Pitch (x2) <BR>
-- NES StackMaster PCBs
-- M3 x 8mm Screw with Nut (x2)
-- M3 x 30mm bolt with Nut (x2)
-Optional
-- 6 x 5/8 self taping screw if you don't want to use the 30mm bolts (x2)
-- 2x4 Double Pin Header if expansion ports are needed (x2)
-- 8 Pin Straight Ribbon Cable
+- NES StackMaster PCBs <br>
+- M3 x 8mm Screw with Nut (x2) <br>
+- M3 x 30mm bolt with Nut (x2) <br> <br>
+Optional <br>
+- 6 x 5/8 self taping screw if you don't want to use the 30mm bolts (x2) <br>
+- 2x4 Double Pin Header if expansion ports are needed (x2) <br>
+- 8 Pin Straight Ribbon Cable <br>
 <BR>
 <BR>
 <BR>
@@ -29,14 +29,15 @@ https://www.ebay.com/itm/182245348283  <BR>
     <BR>
 
 3D print of the Slotmaster Cartrdige Unit <BR>
-https://github.com/ShawMerlin/NES-Slotmaster/blob/main/NES%20Slotmaster%20(v8).stl <BR>
+https://github.com/ShawMerlin/NES-Slotmaster/blob/main/3D%20Model%20-%20NES%20Slotmaster%20(v9).3mf
+<BR>
 <img width="296" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/d84a4958-eae8-4f9e-a26f-e5f98a2dea26">
  <BR>
  <BR>
 
 Top and Bottom SlotMaster PCBs <BR>
-https://github.com/ShawMerlin/NES-Slotmaster/blob/main/Slotmaster_V1.7_Gerbers.zip <BR>
-<img width="645" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/c5e4ee10-fbb4-483a-81d0-01a2d5d24180">
+https://github.com/ShawMerlin/NES-Slotmaster/blob/main/Slotmaster%20DIY%20Version/SlotMaster1-8D-Gerbers.zip <BR>
+<img width="781" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/0e9e9441-ab53-43bb-94c4-44a2cc6cd176">
 
 (x2) 2x4 Double pin header with keyed connector. (Optional) <BR>
 https://www.amazon.com/15Pcs-2-54mm-Straight-Connector-Headers/dp/B00O9YEZ6S <BR>
