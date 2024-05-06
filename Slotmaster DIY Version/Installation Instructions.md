@@ -37,6 +37,7 @@ Attach the 64 pin cable to the bottom board and curve it backwards about 1 inch 
 <BR>
 <BR>
 Attach the Slotmaster 3d Print to the Main NES Board using the existing 4 pegs and the existing NES Screws.  The Cross section goes at the front. <BR>
+If more protection of the cable and top NES PCB is desired, Capton tape or Masking Tape can be used on the PCB. <BR>
 <img width="294" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/d17eb307-61c7-41dc-983c-14edb9058799">
 <BR>
 <BR>
