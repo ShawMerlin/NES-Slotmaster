@@ -4,13 +4,9 @@ Below is everyone that helped with the development of the Slotmaster.   Please s
 
 - George from Long Island Retro Gaming for helping test the design. <br>
     https://www.youtube.com/@LIRetroGaming/videos <br>
- <br>
 - Project Guardian for being my design partner and my voice of reason. <br>
-
- <br>
 - Greg from Laser Bear for improving the 3D Model and offering DIY Kits <br>
     https://www.laserbear.net/products/nes-slotmaster <br>
- <br>
 - Muramasa for providing a slick easy to read schematic. <br>
     https://www.muramasaentertainment.com/ <br>
  <br>
