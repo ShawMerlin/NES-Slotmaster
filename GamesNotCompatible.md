@@ -5,11 +5,16 @@ This new cartridge style seems to be on later cartridges and might have had the 
 The little tail on the end is a result of the electroplating process and didn't have any impact on cartridge connections. <br> <br> 
 Thank you to [RedHerring32](https://github.com/Redherring32) for the additional info <br>
 <br>
+A potential fix might be to cut off the tabs on both sides of the top 72 pin connector, the tabs the screws hold down.  <br>
+I do caution though that without those tabs, more stress will be applied to the solder joints on the backs pins when pulling out cartridges. <br>
+The Juice might not be worth the squeeze <br>
+<br>
 If you find one of these games, please reach out ot me so that I can include it on this page. <br>
 <br>
 List of known games that could have this cartridge <br>
 - Some variations of Super Mario Brothers/Duck Hunt <br>
 - Dragon Warrior (So far, all found copies have this condition) <br>
+- Donkey Kong CLassic (1 report so far)
 
 <br>
 Example of this type of cartridge <br>
