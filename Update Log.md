@@ -1,4 +1,10 @@
 ## Known Issues <BR>
+Certain Everdrive N8's are not booting or booting with graphical issues. (5/14/2024) <br>
+- This is impacted with the V1.8 board versions. <br>
+- The issue is not due to the 8 expansion pins on the header cable. That was incorrect information applied to the silkscreen. <br>
+- This is currently being researched to find the differences and what the root cause of this. <br>
+- Potentially a Power draw issue with the size of the traces, also might be related to the ribbon cable being too long. <br> <br>
+
 Some cartridges are not compatible <br>
 - https://github.com/ShawMerlin/NES-Slotmaster/blob/main/GamesNotCompatible.md <br>
 
