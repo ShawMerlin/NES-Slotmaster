@@ -14,7 +14,7 @@ Slotmaster V1.7 doesn't connect Pin56 <br>
 - https://github.com/ShawMerlin/NES-Slotmaster/blob/main/Slotmaster%20DIY%20Version/Better_Compatibility_Fix.md <br> <br>
 
 ## Flex Version 1.8b <BR>
-Will release soon <br>
+On Hold until Everdrive Issue is resolved. <br>
 - Uses SMD FPC Flex connectors so that flat cables can be used.  Far less soldering. <br>
 - Has a footprint for a ATTiny13 so the Krikzz AVRCIC can be used (if desired). <br> <br>
 
