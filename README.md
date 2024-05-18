@@ -1,3 +1,9 @@
+05/17/2024 <BR>
+- We are aware of potential issues with some EverDrive N8 Pro CARTs and the Slotmaster. <br>
+- Issues can range from freezing, graphical artifacts and just plain refusing to boot. <br>
+- It seems to be Hit or Miss when it comes to folks Everdrives. We have lots of reports some working fine. <br>
+- We are working on a solution so that more Everdrives will work.  More to come. <br> <br>
+
 05/01/2024 <BR>
 - New FPC Flex Slotmaster PCB Annoucement.  There is a seperate folder now for Flex version vs DIY Version. <br>
 - Both Flex and DIY Versions have added footprints for ATTiny so a Krikzz AVRCIC can be used (if desired) <BR>
