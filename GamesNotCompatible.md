@@ -13,8 +13,10 @@ If you find one of these games, please reach out ot me so that I can include it 
 <br>
 List of known games that could have this cartridge <br>
 - Some variations of Super Mario Brothers/Duck Hunt <br>
-- Dragon Warrior (So far, all found copies have this condition) <br>
+- Dragon Warrior (We have had 2 reports, 1 with the short pads and one with normal pads.) <br>
 - Donkey Kong CLassic (1 report so far)
+- 1942 (1 report so far)
+- Adventures of Dino Riki (1 report so far)
 
 <br>
 Example of this type of cartridge <br>
