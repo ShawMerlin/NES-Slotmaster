@@ -1,3 +1,22 @@
+05/31/2024 <BR>
+- 2 solutions have been developed and are currently being tested.  If you would like to help with the testing, please reach out through email. <BR>
+- Laser Bear developed a [Flex cable](https://twitter.com/collingall/status/1795501525734768719) for the interconnect which allows better GND Coupling of the signal traces. <BR>
+- J D'Silva developed a [interconnect board](https://github.com/J-DSilva/NES-Ampersand) which will also provide better GND Coupling. <BR>
+- Check out the [Ninten-Drawer](https://twitter.com/RockerGameMod/status/1784955436606673254) as well for an alternative solution that solves the death grip issue in a very unique way. <BR>
+
+J D'Silva's NES Amerpsand's solution means you do not have to replacet he current PCB's if you have already ordered them. <BR>
+If you are a DIYer, this solution will be the most cost effective while Laser Bears solution is very elegant if you are not into DIY. <BR>
+
+
+Here is some of my work with J D'Silva's NES Ampersand
+
+<img width="622" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/7cebba2d-64dc-4321-bde3-617a5c3ddcb8">
+<img width="621" alt="image" src="https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/663c864b-23ed-49d5-ac83-4c43185779d6">
+
+
+ <BR>
+ <BR>
+
 05/17/2024 <BR>
 - We are aware of potential issues with some EverDrive N8 Pro CARTs and the Slotmaster. <br>
 - Issues can range from freezing, graphical artifacts and just plain refusing to boot. <br>
