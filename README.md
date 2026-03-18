@@ -1,7 +1,7 @@
 06/25/2024 <br>
 - Laser Bear has made an incredible interconnect flex cable.  I invite all to check this out!! <br>
-- https://x.com/dubesinhower/status/1805235309203845310/photo/1 <br>
 - https://www.laserbear.net/products/nes-slotmaster
+- https://x.com/dubesinhower/status/1805235309203845310/photo/1 <br>
 ![image](https://github.com/ShawMerlin/NES-Slotmaster/assets/70423454/906affeb-4656-4449-b020-22701f06ee0c)
 
 
